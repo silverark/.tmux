@@ -26,6 +26,12 @@ $ cp .tmux/.tmux.conf.local .
 
 Then proceed to [customize] your `~/.tmux.conf.local` copy.
 
+To install the powerlines fonts for ubunut use this:
+
+```
+sudo apt-get install fonts-powerline
+```
+
 [customize]: #enabling-the-powerline-look
 
 If you're a Vim user, setting the `$EDITOR` environment variable to `vim` will
