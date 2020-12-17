@@ -14,6 +14,9 @@ Requirements:
     Ubuntu on Windows)
   - outside of tmux, `$TERM` must be set to `xterm-256color`
 
+
+Only works with version 2.x. On Ubuntu >= 20 you should use the installer `tmux-install.sh` to install version 2.7.
+
 To install, run the following from your terminal: (you may want to backup your
 existing `~/.tmux.conf` first)
 
